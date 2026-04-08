@@ -1,3 +1,0 @@
-module NIOCore {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCore.build/include/NIOCore-Swift.h"
-}

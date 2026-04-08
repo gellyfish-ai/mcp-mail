@@ -1,3 +1,0 @@
-module AsyncHTTPClient {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/include/AsyncHTTPClient-Swift.h"
-}

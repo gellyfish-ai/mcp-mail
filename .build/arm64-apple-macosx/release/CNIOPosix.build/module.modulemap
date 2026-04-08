@@ -1,4 +1,0 @@
-module CNIOPosix {
-    umbrella header "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/CNIOPosix/include/CNIOPosix.h"
-    export *
-}

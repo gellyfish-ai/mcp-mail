@@ -1,4 +1,0 @@
-module CNIOBoringSSLShims {
-    umbrella header "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include/CNIOBoringSSLShims.h"
-    export *
-}

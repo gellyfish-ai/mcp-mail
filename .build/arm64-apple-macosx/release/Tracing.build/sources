@@ -1,7 +1,0 @@
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/InstrumentationSystem+Tracing.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/NoOpTracer.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/SpanProtocol.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/Tracer.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracerProtocol+Legacy.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracerProtocol.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracingTime.swift

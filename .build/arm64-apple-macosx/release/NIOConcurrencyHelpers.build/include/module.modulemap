@@ -1,3 +1,0 @@
-module NIOConcurrencyHelpers {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/include/NIOConcurrencyHelpers-Swift.h"
-}

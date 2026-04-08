@@ -1,3 +1,0 @@
-module NIOExtras {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOExtras.build/include/NIOExtras-Swift.h"
-}

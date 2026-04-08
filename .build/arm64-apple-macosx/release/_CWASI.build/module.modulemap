@@ -1,4 +1,0 @@
-module _CWASI {
-    umbrella header "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/_CWASI/include/_CWASI.h"
-    export *
-}

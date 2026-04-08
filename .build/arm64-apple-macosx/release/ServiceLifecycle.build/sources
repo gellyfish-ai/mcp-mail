@@ -1,9 +1,0 @@
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncGracefulShutdownSequence.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/CancellationWaiter.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ClosureService.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/GracefulShutdown.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/Service.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroup.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroupConfiguration.swift
-/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceRunnerError.swift

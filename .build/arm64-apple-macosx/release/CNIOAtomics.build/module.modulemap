@@ -1,4 +1,0 @@
-module CNIOAtomics {
-    umbrella header "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
-    export *
-}

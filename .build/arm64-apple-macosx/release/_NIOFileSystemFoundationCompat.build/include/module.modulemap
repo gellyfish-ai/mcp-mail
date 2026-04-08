@@ -1,3 +1,0 @@
-module _NIOFileSystemFoundationCompat {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/_NIOFileSystemFoundationCompat.build/include/_NIOFileSystemFoundationCompat-Swift.h"
-}

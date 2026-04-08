@@ -1,3 +1,0 @@
-module NIOPosix {
-    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOPosix.build/include/NIOPosix-Swift.h"
-}
