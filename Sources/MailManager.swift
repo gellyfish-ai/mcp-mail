@@ -329,6 +329,7 @@ actor MailManager {
         }
 
         let script = """
+        set baseDir to "\(tempDir)"
         tell application "Mail"
             set mb to mailbox "\(escapeForAppleScript(mailbox))" of account "\(escapeForAppleScript(account))"
             set msg to (first message of mb whose id is \(messageId))
@@ -336,9 +337,10 @@ actor MailManager {
             repeat with att in mail attachments of msg
                 if \(nameFilter) then
                     set attName to name of att
-                    set savePath to POSIX file "\(tempDir)/" & attName
+                    set fullPath to baseDir & "/" & attName
+                    set savePath to fullPath as POSIX file as «class furl»
                     save att in savePath
-                    set end of savedFiles to "\(tempDir)/" & attName
+                    set end of savedFiles to fullPath
                 end if
             end repeat
             set AppleScript's text item delimiters to "~~~"
