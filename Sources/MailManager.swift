@@ -11,18 +11,30 @@ actor MailManager {
     // MARK: - AppleScript Helpers
 
     private func runScript(_ source: String) throws -> String {
-        let script = NSAppleScript(source: source)!
-        var error: NSDictionary?
-        let result = script.executeAndReturnError(&error)
-        if let error {
-            let message = error[NSAppleScript.errorMessage] as? String ?? "AppleScript error"
-            let errorNumber = error[NSAppleScript.errorNumber] as? Int ?? -1
-            if errorNumber == -1743 {
+        let process = Process()
+        process.executableURL = URL(fileURLWithPath: "/usr/bin/osascript")
+        process.arguments = ["-e", source]
+
+        let stdout = Pipe()
+        let stderr = Pipe()
+        process.standardOutput = stdout
+        process.standardError = stderr
+
+        try process.run()
+        process.waitUntilExit()
+
+        let outData = stdout.fileHandleForReading.readDataToEndOfFile()
+        let errData = stderr.fileHandleForReading.readDataToEndOfFile()
+
+        if process.terminationStatus != 0 {
+            let message = String(data: errData, encoding: .utf8)?.trimmingCharacters(in: .whitespacesAndNewlines) ?? "AppleScript error"
+            if message.contains("-1743") {
                 throw MCPError.permissionDenied("Mail.app access denied (TCC). Grant in System Settings > Privacy & Security > Automation > mcp-mail > Mail")
             }
             throw MCPError.permissionDenied(message)
         }
-        return result.stringValue ?? ""
+
+        return String(data: outData, encoding: .utf8)?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
     }
 
     private func serialize(_ value: Any) throws -> Data {
