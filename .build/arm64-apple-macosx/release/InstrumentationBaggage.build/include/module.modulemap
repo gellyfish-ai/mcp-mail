@@ -1,0 +1,3 @@
+module InstrumentationBaggage {
+    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/include/InstrumentationBaggage-Swift.h"
+}

@@ -1,0 +1,175 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HummingbirdCore.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HummingbirdCore.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Deprecations.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Deprecations.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Request/Request.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Request.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Request.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Request.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Request/RequestBody+inboundClose.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody+inboundClose.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody+inboundClose~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody+inboundClose.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody+inboundClose.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Request/RequestBody.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBody.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Request/RequestBodyMergedWithUnderlyingRequestPartIterator.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBodyMergedWithUnderlyingRequestPartIterator.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBodyMergedWithUnderlyingRequestPartIterator~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBodyMergedWithUnderlyingRequestPartIterator.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/RequestBodyMergedWithUnderlyingRequestPartIterator.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Request/URI.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/URI.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/URI~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/URI.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/URI.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Response/Response.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Response.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Response.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Response.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Response/ResponseBody.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBody.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBody.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBody.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Response/ResponseBodyWriter.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBodyWriter.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBodyWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBodyWriter.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseBodyWriter.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Response/ResponseWriter.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseWriter.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseWriter.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ResponseWriter.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/AvailableConnectionsHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AvailableConnectionsHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AvailableConnectionsHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AvailableConnectionsHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AvailableConnectionsHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/BindAddress.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/BindAddress.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/BindAddress~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/BindAddress.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/BindAddress.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/HTTP/HTTP1Channel+ConfigReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel+ConfigReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel+ConfigReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel+ConfigReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel+ConfigReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/HTTP/HTTP1Channel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTP1Channel.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/HTTP/HTTPChannelHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPChannelHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPChannelHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPChannelHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/HTTP/HTTPServerBuilder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPServerBuilder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPServerBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPServerBuilder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPServerBuilder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/HTTPUserEventHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPUserEventHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPUserEventHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPUserEventHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HTTPUserEventHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/Server.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Server.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Server.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/Server.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/ServerChildChannel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerChildChannel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerChildChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerChildChannel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerChildChannel.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/ServerConfiguration.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerConfiguration.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerConfiguration.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/ServerConfiguration.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Server/TSTLSOptions.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/TSTLSOptions.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/TSTLSOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/TSTLSOptions.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/TSTLSOptions.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/AnyAsyncSequence.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AnyAsyncSequence.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AnyAsyncSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AnyAsyncSequence.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/AnyAsyncSequence.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/FlatDictionary.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/FlatDictionary.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/FlatDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/FlatDictionary.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/FlatDictionary.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/HBParser.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HBParser.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HBParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HBParser.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/HBParser.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/OutputBuffer.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/OutputBuffer.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/OutputBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/OutputBuffer.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/OutputBuffer.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/SendableMetatype.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/SendableMetatype.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/SendableMetatype~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/SendableMetatype.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/SendableMetatype.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/String+percentEncode.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/String+percentEncode.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/String+percentEncode~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/String+percentEncode.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/String+percentEncode.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdCore/Utils/UnsafeTransfer.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/UnsafeTransfer.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/UnsafeTransfer~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/UnsafeTransfer.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdCore.build/UnsafeTransfer.dia"
+  }
+}

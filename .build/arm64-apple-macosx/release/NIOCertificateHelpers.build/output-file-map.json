@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/NIOCertificateHelpers.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/NIOCertificateHelpers.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio-extras/Sources/NIOCertificateHelpers/CertificateValidation.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/CertificateValidation.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/CertificateValidation~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/CertificateValidation.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOCertificateHelpers.build/CertificateValidation.dia"
+  }
+}

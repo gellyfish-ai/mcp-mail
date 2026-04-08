@@ -1,0 +1,43 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOAtomic.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOAtomic~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOAtomic.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOAtomic.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLock.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLock.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLock.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLockedValueBox.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLockedValueBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLockedValueBox.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOLockedValueBox.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOThreadPoolWorkAvailable.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOThreadPoolWorkAvailable.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOThreadPoolWorkAvailable~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOThreadPoolWorkAvailable.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/NIOThreadPoolWorkAvailable.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/atomics.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/atomics.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/lock.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/NIOConcurrencyHelpers.build/lock.dia"
+  }
+}

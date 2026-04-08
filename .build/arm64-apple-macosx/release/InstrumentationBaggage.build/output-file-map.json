@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/InstrumentationBaggage.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/InstrumentationBaggage.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-context/Sources/InstrumentationBaggage/CompatibilityShims.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/CompatibilityShims.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/CompatibilityShims~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/CompatibilityShims.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InstrumentationBaggage.build/CompatibilityShims.dia"
+  }
+}

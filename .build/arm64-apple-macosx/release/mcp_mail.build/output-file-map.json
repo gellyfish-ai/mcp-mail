@@ -1,0 +1,31 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/mcp_mail.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/mcp_mail.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/Sources/App.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/App.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/App.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/App.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/Sources/MCPServer.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MCPServer.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MCPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MCPServer.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MCPServer.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/Sources/MailManager.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MailManager.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MailManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MailManager.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/MailManager.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/Sources/SSETransport.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/SSETransport.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/SSETransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/SSETransport.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/mcp_mail.build/SSETransport.dia"
+  }
+}

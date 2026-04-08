@@ -1,0 +1,289 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Configuration.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Configuration.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/AccessReporter.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessReporter.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessReporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessReporter.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessReporter.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/AccessReporters/AccessLogger.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessLogger.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessLogger.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AccessLogger.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/AccessReporters/FileAccessLogger.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileAccessLogger.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileAccessLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileAccessLogger.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileAccessLogger.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigContext.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigContext.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigContext.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigContext.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigKey.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKey.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKey.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKey.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigProviderHelpers.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProviderHelpers.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProviderHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProviderHelpers.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProviderHelpers.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigReader+internalHelpers.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+internalHelpers.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+internalHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+internalHelpers.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+internalHelpers.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigReader+methods.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+methods.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+methods~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+methods.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader+methods.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigSnapshotReader+methods.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader+methods.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader+methods~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader+methods.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader+methods.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ConfigSnapshotReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigSnapshotReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Deprecations.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Deprecations.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ExpressibleByConfigInt.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigInt.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigInt~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigInt.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigInt.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ExpressibleByConfigString.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigString.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigString~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigString.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ExpressibleByConfigString.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/KeyCoders/CLIKeyEncoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIKeyEncoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIKeyEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIKeyEncoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIKeyEncoder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/KeyCoders/ConfigKeyEncoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKeyEncoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKeyEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKeyEncoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigKeyEncoder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/KeyCoders/DotSeparatorKeyDecoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DotSeparatorKeyDecoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DotSeparatorKeyDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DotSeparatorKeyDecoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DotSeparatorKeyDecoder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/KeyCoders/SeparatorKeyEncoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SeparatorKeyEncoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SeparatorKeyEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SeparatorKeyEncoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SeparatorKeyEncoder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/MultiProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MultiProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MultiProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MultiProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MultiProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/CLI/CLIArgumentParser.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIArgumentParser.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIArgumentParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIArgumentParser.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLIArgumentParser.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/CLI/CLISnapshot.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLISnapshot.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLISnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLISnapshot.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CLISnapshot.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/CLI/CommandLineArgumentsProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommandLineArgumentsProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommandLineArgumentsProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommandLineArgumentsProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommandLineArgumentsProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/EnvironmentVariables/EnvironmentFileParser.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentFileParser.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentFileParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentFileParser.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentFileParser.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/EnvironmentVariables/EnvironmentKeyEncoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentKeyEncoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentKeyEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentKeyEncoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentKeyEncoder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/EnvironmentVariables/EnvironmentVariablesProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentVariablesProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentVariablesProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentVariablesProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/EnvironmentVariablesProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/CommonProviderFileSystem.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommonProviderFileSystem.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommonProviderFileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommonProviderFileSystem.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CommonProviderFileSystem.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/DirectoryFilesProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DirectoryFilesProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DirectoryFilesProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DirectoryFilesProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/DirectoryFilesProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/FileProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/FileProviderSnapshot.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProviderSnapshot.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProviderSnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProviderSnapshot.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FileProviderSnapshot.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/JSONSnapshot.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/JSONSnapshot.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/JSONSnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/JSONSnapshot.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/JSONSnapshot.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/PropertyListSnapshot.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/PropertyListSnapshot.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/PropertyListSnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/PropertyListSnapshot.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/PropertyListSnapshot.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/ReloadingFileProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/ReloadingFileProviderMetrics.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProviderMetrics.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProviderMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProviderMetrics.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ReloadingFileProviderMetrics.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Files/YAMLSnapshot.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/YAMLSnapshot.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/YAMLSnapshot~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/YAMLSnapshot.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/YAMLSnapshot.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/InMemory/InMemoryProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/InMemoryProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/InMemoryProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/InMemoryProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/InMemoryProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/InMemory/MutableInMemoryProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MutableInMemoryProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MutableInMemoryProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MutableInMemoryProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/MutableInMemoryProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Wrappers/ConfigProvider+Operators.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider+Operators.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider+Operators~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider+Operators.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigProvider+Operators.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Providers/Wrappers/KeyMappingProvider.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/KeyMappingProvider.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/KeyMappingProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/KeyMappingProvider.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/KeyMappingProvider.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/SecretsSpecifier.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SecretsSpecifier.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SecretsSpecifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SecretsSpecifier.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/SecretsSpecifier.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/AsyncAlgos/AsyncCombineLatestManySequence.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncCombineLatestManySequence.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncCombineLatestManySequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncCombineLatestManySequence.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncCombineLatestManySequence.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/AsyncAlgos/CombineLatestManyStateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/AsyncAlgos/CombineLatestManyStorage.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStorage.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStorage.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/CombineLatestManyStorage.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/AsyncSequences.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncSequences.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncSequences~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncSequences.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/AsyncSequences.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/FoundationExtensions.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FoundationExtensions.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FoundationExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FoundationExtensions.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/FoundationExtensions.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/Utilities/Span.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Span.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Span~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Span.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/Span.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-configuration/Sources/Configuration/ValueCoders/ConfigBytesFromStringDecoder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigBytesFromStringDecoder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigBytesFromStringDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigBytesFromStringDecoder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Configuration.build/ConfigBytesFromStringDecoder.dia"
+  }
+}

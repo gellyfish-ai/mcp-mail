@@ -1,0 +1,4 @@
+module CNIOOpenBSD {
+    umbrella header "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-nio/Sources/CNIOOpenBSD/include/CNIOOpenBSD.h"
+    export *
+}

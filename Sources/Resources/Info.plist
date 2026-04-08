@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.gellyfish.mcp-mail</string>
+    <key>CFBundleName</key>
+    <string>mcp-mail</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>MCP Mail server needs to send Apple Events to Mail.app to read and manage email.</string>
+</dict>
+</plist>

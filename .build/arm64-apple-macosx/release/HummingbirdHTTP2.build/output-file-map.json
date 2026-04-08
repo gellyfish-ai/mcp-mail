@@ -1,0 +1,67 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HummingbirdHTTP2.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HummingbirdHTTP2.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/Exports.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/Exports.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/Exports.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/Exports.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2Channel+ConfigReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel+ConfigReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel+ConfigReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel+ConfigReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel+ConfigReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2Channel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2Channel.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2ServerConnectionManager+StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager+StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager+StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager+StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2ServerConnectionManager.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2ServerConnectionManager.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2StreamChannel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2StreamChannel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2StreamChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2StreamChannel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2StreamChannel.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTP2UpgradeChannel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2UpgradeChannel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2UpgradeChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2UpgradeChannel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTP2UpgradeChannel.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/HTTPServerBuilder+http2.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTPServerBuilder+http2.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTPServerBuilder+http2~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTPServerBuilder+http2.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/HTTPServerBuilder+http2.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/TLSChannelConfiguration+ConfigReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration+ConfigReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration+ConfigReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration+ConfigReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration+ConfigReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdHTTP2/TLSChannelConfiguration.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdHTTP2.build/TLSChannelConfiguration.dia"
+  }
+}

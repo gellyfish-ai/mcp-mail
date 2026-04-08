@@ -1,0 +1,19 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextModule.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextModule.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-context/Sources/ServiceContextModule/ServiceContext.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContext.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContext.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContext.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-service-context/Sources/ServiceContextModule/ServiceContextKey.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextKey.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextKey.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/ServiceContextModule.build/ServiceContextKey.dia"
+  }
+}

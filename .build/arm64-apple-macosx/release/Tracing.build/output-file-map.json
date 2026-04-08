@@ -1,0 +1,49 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracing.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracing.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/InstrumentationSystem+Tracing.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/InstrumentationSystem+Tracing.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/InstrumentationSystem+Tracing~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/InstrumentationSystem+Tracing.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/InstrumentationSystem+Tracing.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/NoOpTracer.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/NoOpTracer.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/NoOpTracer~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/NoOpTracer.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/NoOpTracer.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/SpanProtocol.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/SpanProtocol.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/SpanProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/SpanProtocol.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/SpanProtocol.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/Tracer.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracer.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracer~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracer.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/Tracer.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracerProtocol+Legacy.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol+Legacy.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol+Legacy~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol+Legacy.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol+Legacy.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracerProtocol.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracerProtocol.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Tracing/TracingTime.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracingTime.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracingTime~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracingTime.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/Tracing.build/TracingTime.dia"
+  }
+}

@@ -1,0 +1,5 @@
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Instrumentation/Instrument.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Instrumentation/InstrumentationSystem.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Instrumentation/Locks.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Instrumentation/MultiplexInstrument.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-distributed-tracing/Sources/Instrumentation/NoOpInstrument.swift

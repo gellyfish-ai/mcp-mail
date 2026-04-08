@@ -1,0 +1,3 @@
+module InMemoryLogging {
+    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/InMemoryLogging.build/include/InMemoryLogging-Swift.h"
+}

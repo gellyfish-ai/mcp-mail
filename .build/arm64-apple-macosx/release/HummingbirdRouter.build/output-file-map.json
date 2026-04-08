@@ -1,0 +1,73 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/HummingbirdRouter.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/HummingbirdRouter.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/ContextTransform.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/ContextTransform.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/ContextTransform~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/ContextTransform.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/ContextTransform.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/Deprecations.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Deprecations.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/Route.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Route.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Route~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Route.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/Route.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouteBuilder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteBuilder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteBuilder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteBuilder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouteGroup.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteGroup.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteGroup.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteGroup.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouteHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouteHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouterBuilder.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilder.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilder.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilder.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouterBuilderContext.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderContext.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderContext.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderContext.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouterBuilderState.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderState.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderState~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderState.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterBuilderState.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouterController.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterController.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterController~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterController.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterController.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdRouter/RouterPath.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterPath.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterPath~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterPath.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdRouter.build/RouterPath.dia"
+  }
+}

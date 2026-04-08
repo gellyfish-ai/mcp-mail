@@ -1,0 +1,31 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HummingbirdTLS.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HummingbirdTLS.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdTLS/Exports.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/Exports.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/Exports.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/Exports.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdTLS/HTTPServerBuilder+tls.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HTTPServerBuilder+tls.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HTTPServerBuilder+tls~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HTTPServerBuilder+tls.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/HTTPServerBuilder+tls.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdTLS/TLSChannel+ConfigReader.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel+ConfigReader.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel+ConfigReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel+ConfigReader.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel+ConfigReader.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/hummingbird/Sources/HummingbirdTLS/TLSChannel.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/TLSChannel.dia"
+  }
+}

@@ -1,0 +1,61 @@
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Descriptions.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.SubSequence.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift'
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sendable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Descriptions.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formIntersection.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formSymmetricDifference.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formUnion.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra intersection.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isDisjoint.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isEqualSet.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSubset.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSuperset.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSubset.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSuperset.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtract.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtracting.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra symmetricDifference.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra union.swift'
+'/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift'
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Sendable.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift
+/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift

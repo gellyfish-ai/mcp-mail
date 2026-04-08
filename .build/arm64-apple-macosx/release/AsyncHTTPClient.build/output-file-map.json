@@ -1,0 +1,433 @@
+{
+  "": {
+    "dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncHTTPClient.d",
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncHTTPClient.o",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/primary.swiftdeps"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequence.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequence.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequence.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequence.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequenceProucerDelete.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequenceProucerDelete.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequenceProucerDelete~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequenceProucerDelete.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AnyAsyncSequenceProucerDelete.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AsyncLazySequence.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncLazySequence.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncLazySequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncLazySequence.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/AsyncLazySequence.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+execute.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+execute.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+execute.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+shutdown.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+shutdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+shutdown.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+shutdown.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+tracing.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+tracing.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+tracing~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+tracing.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+tracing.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+Prepared.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+Prepared~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+Prepared.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+Prepared.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+auth.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+auth.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+auth~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+auth.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest+auth.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientRequest.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientResponse.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientResponse.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientResponse.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/SingleIteratorPrecondition.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SingleIteratorPrecondition.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SingleIteratorPrecondition~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SingleIteratorPrecondition.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SingleIteratorPrecondition.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction+StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction+StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction+StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Transaction.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Base64.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Base64.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Base64.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BasicAuth.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BasicAuth.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BasicAuth~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BasicAuth.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BasicAuth.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Configuration+BrowserLike.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Configuration+BrowserLike.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Configuration+BrowserLike~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Configuration+BrowserLike.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Configuration+BrowserLike.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionPool.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionPool.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionPool.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ProxyConnectHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ProxyConnectHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ProxyConnectHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ProxyConnectHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SOCKSEventsHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SOCKSEventsHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SOCKSEventsHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SOCKSEventsHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSEventsHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSEventsHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSEventsHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSEventsHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ClientChannelHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ClientChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ClientChannelHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ClientChannelHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1Connection.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1Connection.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1Connection.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ConnectionStateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ConnectionStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ConnectionStateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP1ConnectionStateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2ClientRequestHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2ClientRequestHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2ClientRequestHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2ClientRequestHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2Connection.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2Connection.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2Connection.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2IdleHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2IdleHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2IdleHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTP2IdleHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionEvent.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionEvent.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionEvent.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Factory.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Factory~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Factory.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Factory.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Manager.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Manager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Manager.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Manager.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPExecutableRequest.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPExecutableRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPExecutableRequest.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPExecutableRequest.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine+Demand.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine+Demand~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine+Demand.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine+Demand.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPRequestStateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBodyLength.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBodyLength~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBodyLength.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBodyLength.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestFramingMetadata.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestFramingMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestFramingMetadata.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestFramingMetadata.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestOptions.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestOptions.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestOptions.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Backoff.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Backoff~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Backoff.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+Backoff.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1Connections.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1Connections~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1Connections.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1Connections.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP1StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2Connections.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2Connections~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2Connections.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2Connections.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+HTTP2StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+RequestQueue.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+RequestQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+RequestQueue.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+RequestQueue.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPConnectionPool+StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionTarget.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionTarget.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/ConnectionTarget.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/DeconstructedURL.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/DeconstructedURL~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/DeconstructedURL.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/DeconstructedURL.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FileDownloadDelegate.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FileDownloadDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FileDownloadDelegate.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FileDownloadDelegate.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FoundationExtensions.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FoundationExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FoundationExtensions.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/FoundationExtensions.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+HTTPCookie.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+HTTPCookie~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+HTTPCookie.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+HTTPCookie.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+Proxy.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+Proxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+Proxy.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+Proxy.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+StructuredConcurrency.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+StructuredConcurrency.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+StructuredConcurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+StructuredConcurrency.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient+StructuredConcurrency.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClient.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClientConfiguration+SwiftConfiguration.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientConfiguration+SwiftConfiguration.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientConfiguration+SwiftConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientConfiguration+SwiftConfiguration.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPClientConfiguration+SwiftConfiguration.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/HTTPHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/LRUCache.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/LRUCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/LRUCache.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/LRUCache.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOLoopBound+Execute.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NIOLoopBound+Execute.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NIOLoopBound+Execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NIOLoopBound+Execute.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NIOLoopBound+Execute.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWErrorHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWErrorHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWErrorHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWWaitingHandler.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWWaitingHandler.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWWaitingHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWWaitingHandler.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/NWWaitingHandler.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSConfiguration.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TLSConfiguration.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RedirectState.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RedirectState~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RedirectState.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RedirectState.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+StateMachine.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+StateMachine.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+StateMachine.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+Tracing.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+Tracing.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+Tracing~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+Tracing.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag+Tracing.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestBag.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestValidation.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestValidation~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestValidation.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/RequestValidation.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SSLContextCache.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SSLContextCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SSLContextCache.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/SSLContextCache.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Scheme.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Scheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Scheme.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Scheme.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Singleton.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Singleton.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Singleton~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Singleton.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Singleton.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StringConvertibleInstances.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StringConvertibleInstances~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StringConvertibleInstances.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StringConvertibleInstances.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StructuredConcurrencyHelpers.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StructuredConcurrencyHelpers.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StructuredConcurrencyHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StructuredConcurrencyHelpers.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/StructuredConcurrencyHelpers.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/TracingSupport.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TracingSupport.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TracingSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TracingSupport.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/TracingSupport.dia"
+  },
+  "/Users/gellyfish/Workspace/mcp-mail/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": {
+    "object": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Utils.swift.o",
+    "swiftmodule": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Utils.swiftdeps",
+    "diagnostics": "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/AsyncHTTPClient.build/Utils.dia"
+  }
+}

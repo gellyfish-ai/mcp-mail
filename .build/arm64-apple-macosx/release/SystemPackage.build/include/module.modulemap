@@ -1,0 +1,3 @@
+module SystemPackage {
+    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/SystemPackage.build/include/SystemPackage-Swift.h"
+}

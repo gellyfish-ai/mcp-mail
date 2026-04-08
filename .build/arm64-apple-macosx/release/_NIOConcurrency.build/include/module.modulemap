@@ -1,0 +1,3 @@
+module _NIOConcurrency {
+    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/_NIOConcurrency.build/include/_NIOConcurrency-Swift.h"
+}

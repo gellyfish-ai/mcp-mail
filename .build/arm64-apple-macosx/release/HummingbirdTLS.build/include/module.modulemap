@@ -1,0 +1,3 @@
+module HummingbirdTLS {
+    header "/Users/gellyfish/Workspace/mcp-mail/.build/arm64-apple-macosx/release/HummingbirdTLS.build/include/HummingbirdTLS-Swift.h"
+}
