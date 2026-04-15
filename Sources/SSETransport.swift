@@ -16,18 +16,18 @@ final class SSETransport: Sendable {
     func registerRoutes(router: Router<some RequestContext>) {
         let transport = self
 
+        Task {
+            while true {
+                try? await Task.sleep(for: .seconds(30))
+                await transport.connections.sendHeartbeat()
+            }
+        }
+
         router.get("/sse") { request, _ -> Response in
             let sessionId = UUID().uuidString
 
             let (stream, continuation) = AsyncStream<String>.makeStream()
             await transport.connections.add(sessionId: sessionId, continuation: continuation)
-
-            continuation.onTermination = { @Sendable _ in
-                Task {
-                    await transport.connections.remove(sessionId: sessionId)
-                    print("[mcp-mail] [SSE] \(sessionId) disconnected — remaining: \(await transport.connections.count)")
-                }
-            }
 
             print("[mcp-mail] [SSE] \(sessionId) connected — active connections: \(await transport.connections.count)")
 
@@ -130,7 +130,32 @@ actor SSEConnectionStore {
     }
 
     func send(sessionId: String, message: String) {
-        connections[sessionId]?.yield(message)
+        guard let continuation = connections[sessionId] else { return }
+        let result = continuation.yield(message)
+        if case .terminated = result {
+            connections[sessionId]?.finish()
+            connections.removeValue(forKey: sessionId)
+            print("[mcp-mail] [SSE] \(sessionId) auto-removed (yield terminated)")
+        }
+    }
+
+    func sendHeartbeat() {
+        let ping = ": keepalive\n\n"
+        var dead: [String] = []
+        for (sessionId, continuation) in connections {
+            let result = continuation.yield(ping)
+            if case .terminated = result {
+                dead.append(sessionId)
+            }
+        }
+        for sessionId in dead {
+            connections[sessionId]?.finish()
+            connections.removeValue(forKey: sessionId)
+            print("[mcp-mail] [SSE] \(sessionId) removed by heartbeat sweep")
+        }
+        if !dead.isEmpty {
+            print("[mcp-mail] [SSE] Heartbeat swept \(dead.count) dead connections — remaining: \(connections.count)")
+        }
     }
 
     func remove(sessionId: String) {
