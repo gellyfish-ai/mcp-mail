@@ -37,7 +37,7 @@ struct MCPMailApp {
             configuration: .init(address: .hostname(host, port: port))
         )
 
-        print("MCP Mail server starting on \(host):\(port)")
+        print("[mcp-mail] Starting on \(host):\(port) — pid \(ProcessInfo.processInfo.processIdentifier)")
         print("SSE endpoint: http://\(host):\(port)/sse")
         print("Message endpoint: http://\(host):\(port)/message")
         print("Run with --setup to test Mail.app access permissions")

@@ -22,6 +22,15 @@ final class SSETransport: Sendable {
             let (stream, continuation) = AsyncStream<String>.makeStream()
             await transport.connections.add(sessionId: sessionId, continuation: continuation)
 
+            continuation.onTermination = { @Sendable _ in
+                Task {
+                    await transport.connections.remove(sessionId: sessionId)
+                    print("[mcp-mail] [SSE] \(sessionId) disconnected — remaining: \(await transport.connections.count)")
+                }
+            }
+
+            print("[mcp-mail] [SSE] \(sessionId) connected — active connections: \(await transport.connections.count)")
+
             // Send the endpoint event so the client knows where to POST
             let authority = request.uri.host ?? "127.0.0.1"
             let port = request.uri.port ?? 8202
@@ -45,6 +54,7 @@ final class SSETransport: Sendable {
             let sessionId = request.uri.queryParameters.get("sessionId") ?? ""
 
             guard await transport.connections.has(sessionId: sessionId) else {
+                print("[mcp-mail] [POST] Invalid sessionId: \(sessionId)")
                 return Response(
                     status: .badRequest,
                     body: .init(byteBuffer: .init(string: "Invalid or expired session"))
@@ -53,6 +63,11 @@ final class SSETransport: Sendable {
 
             let body = try await request.body.collect(upTo: 1_048_576)
             let bodyData = Data(buffer: body)
+
+            if let json = try? JSONSerialization.jsonObject(with: bodyData) as? [String: Any] {
+                let method = json["method"] as? String ?? "unknown"
+                print("[mcp-mail] [POST] \(sessionId) method=\(method)")
+            }
 
             if let responseData = await transport.mcpServer.handleMessage(bodyData) {
                 // Check if it's a protocol-level error
@@ -103,6 +118,8 @@ struct SSEByteSequence: AsyncSequence, Sendable {
 
 actor SSEConnectionStore {
     private var connections: [String: AsyncStream<String>.Continuation] = [:]
+
+    var count: Int { connections.count }
 
     func add(sessionId: String, continuation: AsyncStream<String>.Continuation) {
         connections[sessionId] = continuation
